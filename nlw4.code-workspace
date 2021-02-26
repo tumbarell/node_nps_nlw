@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../home/tumbarell/Descargas/js-basics"
+		},
+		{
+			"path": "../../../../../../../home/tumbarell/Descargas/php_basics"
+		},
+		{
+			"path": "../../../../Libros/Doutorado/postdocs/my_site"
+		},
+		{
+			"path": "../../../../../../../home/tumbarell/Descargas/css"
+		},
+		{
+			"path": "../../../django/mas_django/projecto1"
+		},
+		{
+			"path": "../../../django/mas_django/TiendaOnline"
+		},
+		{
+			"path": "../../../django/mas_django/projectoweb"
+		},
+		{
+			"path": "../../../../../../../opt/lampp/htdocs/orestes_php"
+		},
+		{
+			"path": "../../../../../../../home/tumbarell/Descargas/git_github"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "git_github",
+		"jupyter.jupyterServerType": "local",
+		"files.associations": {
+			"total_population.C": "cpp",
+			"U_vs_x.C": "cpp",
+			"total_population2.C": "cpp"
+		}
+	}
+}
